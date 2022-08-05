@@ -1,4 +1,4 @@
-enkinsfile (Scripted Pipeline)
+Jenkinsfile (Scripted Pipeline)
 /* Requires the Docker Pipeline plugin */
 node('docker') {
     stage('Build') {
